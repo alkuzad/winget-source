@@ -27,6 +27,6 @@ But it works
 
 https://github.com/jantari/rewinged
 
-Didn't try it because it's audience is different - local repositories instead of
-publicly hosted ones. It's nice to know this exists as it seems it's not that hard
+Didn't try it because it's audience is different - it creates
+fully-local rest api for winget to consume instead of publicly hosted ones. It's nice to know this exists as it seems it's not that hard
 to make one.
